@@ -95,7 +95,7 @@ int main()
     return 0;
 }
 
-/*这个是纯STL版，带你领略STL的极致运用
+/*纯STL版，带你领略STL的极致运用
 #include <iostream>
 #include <unordered_map>
 #include <list>
