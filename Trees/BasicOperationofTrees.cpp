@@ -168,7 +168,8 @@ bool isValidBST(Node* root) {
     return Comparison(root, __LONG_LONG_MAX__, __LONG_LONG_MAX__);
 }
 
-Node* lowestCommonAncestor(Node* root, Node* p, Node* q) {
+Node* lowestCommonAncestor(Node* root, Node* p, Node* q)
+{
 
     if(root == nullptr || root==p || root == q) return  root;
 
