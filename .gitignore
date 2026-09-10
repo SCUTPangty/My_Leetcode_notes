@@ -1,0 +1,5 @@
+output/
+*.o
+*.out
+*.exe
+a.out
